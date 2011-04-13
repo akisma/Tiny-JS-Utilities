@@ -1,4 +1,4 @@
-if(!!!TINY) var TINY = {};
+if(!TINY) var TINY = {};
 
 /* takes object
 
